@@ -26,7 +26,6 @@ body {
 .header {
     background-color: rgb(5, 108, 108);
     min-height: 150px;
-    width: 600px;
 }
 .content {
     background-color: white;
