@@ -20,7 +20,7 @@ body {
 }
 .menu {
     width: 15%;
-    background-color: aqua;
+    background-color: rgb(171, 243, 243);
     padding: 10px 20px 0px;
 }
 .header {
