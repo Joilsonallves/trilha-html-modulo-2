@@ -59,8 +59,8 @@ ul li a:hover {
     color: #ffffff;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
-.footer h4 {
-    font-size: 30px;  
+blockquote {
+    font-size: 22px;  
 }
 .footer p {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
