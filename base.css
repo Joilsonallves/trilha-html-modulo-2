@@ -52,6 +52,10 @@ ul li a:hover {
     background-color: white;
     min-height: 300px;
     padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.content h1 {
+    color: rgb(64 72 131);
 }
 .footer {
     background-color: rgb(64 72 131);
