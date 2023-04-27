@@ -28,6 +28,7 @@ ul {
 }
 ul li {
     border-left: 2px solid rgb(69, 144, 167);
+    padding: 2px;
 
 }
 ul li a {
