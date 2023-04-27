@@ -19,12 +19,13 @@ body {
     width: 85%;
 }
 .menu {
-    width: 35.5%;
+    width: 20%;
     background-color: rgb(64 72 131);
     padding: 10px 5px 0px;
 }
 ul {
     list-style: none;
+    padding: 0 15%;
 }
 ul li {
     border-left: 5px solid #ffffff;
