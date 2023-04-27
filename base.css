@@ -39,6 +39,9 @@ ul li a {
     text-decoration: none;
     text-transform: capitalize;
 }
+ul li a:hover {
+    background-color: antiquewhite;
+}
 .header {
     background-color: rgb(5, 108, 108);
     min-height: 150px;
